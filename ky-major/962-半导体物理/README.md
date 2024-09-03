@@ -2,16 +2,41 @@
 
 Semiconductor Physics
 
-@上海大学
+@上海大学 962 半导体物理
+
+## Catalog
+
+笔记
+
+* [1-半导体中的电子状态](./knowledge/1-半导体中的电子状态.md)
+* [2-半导体中杂质和缺陷能级](./knowledge/2-半导体中杂质和缺陷能级.md)
+* [3-半导体中载流子的统计分布](./knowledge/3-半导体中载流子的统计分布.md)
+* [4-半导体的导电性](./knowledge/4-半导体的导电性.md)
+* [5-非平衡载流子](./knowledge/5-非平衡载流子.md)
+* [6-pn结](./knowledge/6-pn结.md)
+* [7-金属和半导体接触](./knowledge/7-金属和半导体接触.md)
+* [8-半导体表面与MIS结构](./knowledge/8-半导体表面与MIS结构.md)
+
+习题
+
+* [1-半导体中的电子状态](./exercise/1-半导体中的电子状态.md)
+* [2-半导体中杂质和缺陷能级](./exercise/2-半导体中杂质和缺陷能级.md)
+* [3-半导体中载流子的统计分布](./exercise/3-半导体中载流子的统计分布.md)
+* [4-半导体的导电性](./exercise/4-半导体的导电性.md)
+* [5-非平衡载流子](./exercise/5-非平衡载流子.md)
+* [6-pn结](./exercise/6-pn结.md)
+* [7-金属和半导体接触](./exercise/7-金属和半导体接触.md)
+* [8-半导体表面与MIS结构](./exercise/8-半导体表面与MIS结构.md)
 
 ## Free Online Courses
 
 [【物理】半导体物理 西安电子科技大学 柴常春等主讲](https://www.bilibili.com/video/BV1fp4y1z7oF/)
 
-[柴常春手写笔记](https://pan.baidu.com/s/1Y1kanvx6Npa7wHn-zBzIzg)
-提取码：Es91
+相关资料：
 
-[彡风居住的街道彡的笔记](https://www.bilibili.com/read/cv14042470/?jump_opus=1)
+* [柴常春手写笔记](https://pan.baidu.com/s/1Y1kanvx6Npa7wHn-zBzIzg)
+提取码：Es91
+* [彡风居住的街道彡的笔记](https://www.bilibili.com/read/cv14042470/?jump_opus=1)
 
 ---
 
@@ -26,6 +51,12 @@ Semiconductor Physics
 ---
 
 [上海大学24微电子考研情况及25考研分析](https://www.bilibili.com/video/BV1RD421p778/)
+
+---
+
+[24届上海大学微电子学院899、962复试大纲](https://mp.weixin.qq.com/s/GWGzrbjdLEtk6h34iNcS7w)
+
+[微电子集成电路考研高校群汇总](https://mp.weixin.qq.com/s/BFRirqgqFuETGLieKSl83A)
 
 ### TOP考研
 
@@ -45,31 +76,18 @@ Semiconductor Physics
 
 这个: 纯纯念稿子，感觉没啥用。
 
-## 资料
-
-[出上海大学微电子962半导体物理初复试资料](https://tieba.baidu.com/p/8444653043)
-
-[24届上海大学微电子学院899、962复试大纲](https://mp.weixin.qq.com/s/GWGzrbjdLEtk6h34iNcS7w)
-
-[微电子集成电路考研高校群汇总](https://mp.weixin.qq.com/s/BFRirqgqFuETGLieKSl83A)
-
 ## Coursebook
 
-[半导体物理学 刘恩科 第七版](https://zh.zlibrary-global.se/book/12066614/64423b/半导体物理学-刘恩科-第七版.html)
+扫描版:
+
+* [半导体物理学 刘恩科 第七版](https://zh.zlibrary-global.se/book/12066614/64423b/半导体物理学-刘恩科-第七版.html)
 ISBN: 9787121320071
+* [半导体物理学 习题集及详解](https://zh.zlibrary-global.se/book/27344933/341238/半导体物理学-学习题集及详解.html)
 
 比较阳间的电子版:
 
 * [半导体物理学（第7版）-刘恩科](https://weread.qq.com/web/bookDetail/c8a32ab0813ab7c27g0173f0)
 * [半导体物理学（第7版） -- 刘恩科，等-京东阅读](https://cread.jd.com/read/startRead.action?bookId=30466507&readType=1)
-
-尝试使用工具来下载看看。
-
-```sh
-python -m weread_exporter -b c8a32ab0813ab7c27g0173f0 -o epub -o pdf
-```
-
-[半导体物理学 习题集及详解](https://zh.zlibrary-global.se/book/27344933/341238/半导体物理学-学习题集及详解.html)
 
 ---
 
