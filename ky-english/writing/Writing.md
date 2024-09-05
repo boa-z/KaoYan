@@ -308,6 +308,14 @@ You should write about 100 words on the ANSWER SHEET.
 Do not use your name or the name of your university.
 Do not write your address. (10 points)
 
+### 2015 S4 PA Answer v20240904
+
+Dear Students,
+
+We are excited to announce that our university will be hosting a summer camp for high school students. The camp will feature a variety of activities, including academic workshops, sports competitions, cultural performances, and outdoor adventures.
+
+We are looking for enthusiastic volunteers to help organize and facilitate the camp activities. If you are interested in gaining valuable leadership experience, making new friends, and contributing to a fun and educational summer camp, we encourage you to sign up as a volunteer. Don't miss this opportunity to be part of an exciting and rewarding experience!
+
 ## 2015 S4 PB
 
 48 Directions:
@@ -443,6 +451,14 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
   }]
 }
 ```
+
+### 2016 S4 PB Answer v20240904
+
+The chart illustrates the survey results of the purposes of travel among college students. This pie chart shows that the majority of students travel to appreciate the scenery, accounting for 37% of the responses. Following closely behind is the purpose of relieving stress, with 33% of students indicating this as their reason for travel. Other common purposes include making friends, cultivating independence, and other reasons, each representing 9%, 6%, and 15% of the responses, respectively.
+
+"Admiring the scenery" and "relieving stress" are the top two motivations for college students to travel, reflecting the desire for relaxation, enjoyment, and personal growth. Traveling can provide students with a break from their academic responsibilities, allowing them to explore new places, cultures, and experiences. By engaging in travel, students can broaden their horizons, gain new perspectives, and create lasting memories. It is essential for students to balance their academic commitments with leisure activities to maintain their well-being and overall happiness.
+
+College students can make travel more meaningful by making friends, cultivating independence, and exploring new destinations. By embracing the diverse benefits of travel, students can enhance their personal development, social connections, and cultural awareness. After all, travel is not just about the destination but also about the journey and the experiences gained along the way.
 
 ## 2017 S4 PA
 
@@ -601,6 +617,19 @@ You should write about 100 words on the ANSWER SHEET.
 Do not use your own name. Use “Li Ming” instead.
 Do not write your address. (10 points)
 
+### 2018 S4 PA Answer v20240904
+
+Dear Professor Smith,
+
+I am writing to express my sincere apologies for having to cancel our meeting scheduled. Unfortunately, due to an unexpected family emergency, I am unable to visit you as planned.
+
+I understand the inconvenience this may cause and I apologize for any disruption to your schedule. I would be grateful for the opportunity to reschedule our meeting at a later date that is convenient for you. Please let me know of any available times that would work best.
+
+Thank you for your understanding.
+
+Sincerely,
+Li Ming
+
 ## 2018 S4 PB
 
 48 Directions:
@@ -651,6 +680,10 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
   }]
 }
 ```
+
+### 2018 S4 PB Answer v20240904
+
+The chart illustrates the factors that consumers consider when choosing a restaurant in a city in 2017. The data reveals that environmental factors are the most significant consideration, with 36.30% of consumers prioritizing the restaurant's ambiance and setting. Price is the second most important factor, with 26.80% of consumers focusing on affordability. Service quality is the least important factor, with only 4.70% of consumers considering it when selecting a restaurant.
 
 ## 2019 S4 PA
 

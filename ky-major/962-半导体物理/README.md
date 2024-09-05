@@ -89,20 +89,26 @@ ISBN: 9787121320071
 * [半导体物理学（第7版）-刘恩科](https://weread.qq.com/web/bookDetail/c8a32ab0813ab7c27g0173f0)
 * [半导体物理学（第7版） -- 刘恩科，等-京东阅读](https://cread.jd.com/read/startRead.action?bookId=30466507&readType=1)
 
----
+## Prompt
 
 将图片中内容转化为 Markdown 格式，图片中的内容为：
 
----
-
-下面是一段通过 OCR 识别得到的半导体物理习题，请帮助我将其修正其中可能存在的识别错误。
-
-Add your ocr content here.
-
-下面是修正后的内容：
-
-Let the GitHub Copilot help you.
+将 PDF 中内容转化为 Markdown 格式，其中数学公式以 $...$ 形式给出，为图片插入位置留空并注释，去除页眉和页脚，以代码块的形式输出，PDF 中的内容为：
 
 ---
 
-下面是一段通过 MinerU 从 PDF 转化得到的 LaTeX 公式，请帮助我将其修正其中可能存在的错误并优化排版。
+以下是通过 OCR 识别得到的半导体物理习题，可能存在识别错误、公式错误或符号不准确的情况。请帮助我检查并修正其中的错误。
+
+`Add your ocr content here.`
+
+请提供修正后的版本:
+
+`Let the GitHub Copilot help you.`
+
+---
+
+下面是一段通过 MinerU 从 PDF 转换得到的 LaTeX 公式。请仔细检查公式中的错误，修正可能存在的符号、格式和语法问题，并对公式进行排版优化，确保其结构清晰、可读性高。
+
+---
+
+请帮我整理这道题中的关键公式，并详细介绍每个公式的含义、参数定义和在问题中的应用，确保对公式的物理意义和使用场景有清晰的说明。

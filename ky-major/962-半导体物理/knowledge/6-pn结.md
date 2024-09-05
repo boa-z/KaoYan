@@ -102,23 +102,29 @@ pn 结的单向导电性 = 整流效应
 
 注: $n_{p0}$ 中的下标0表示热平衡状态下，$n_i^2 = n p$
 
-在 $x = x_n$ 处：
+在 $x = x_n$ 处，空穴扩散电流密度为：
 
 $$
-\color{#E45F59}{J_{P}(x_{n}) = \frac{q D_p p_{n0}}{L_p} \left[ \exp(\frac{qV}{KT})-1 \right]}
+\color{#E45F59}{J_{\mathrm{p}}(x_{\mathrm{n}}) = \frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} \left[ \exp(\frac{qV}{kT})-1 \right]} \tag{6-31}
 $$
 
-$J_{P}(x_{n})$ - 表示二极管在 $x_{n}$ 位置的饱和电流密度($A/m^2$)
-$L_p$ 为p区电子（少数载流子）的扩散长度(diffussion length)
+* $J_{P}(x_{n})$ 表示二极管在 $x_{n}$ 位置的饱和电流密度($A/m^2$)
+* $L_p$ 为p区电子（少数载流子）的扩散长度(diffussion length)
 
-理想二极管方程 ideal diode equation
+在 $x = -x_p$ 处，电子扩散电流密度为：
+
+$$
+\color{#E45F59}{J_{\mathrm{n}}(-x_{\mathrm{p}}) = \frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \left[ \exp(\frac{qV}{kT})-1 \right]} \tag{6-32}
+$$
+
+理想二极管方程 ideal diode equation (肖克利方程 Shockley equation)
 
 $$
 \color{#E45F59}{\begin{split}
     J
-    &= J_{p}(x_{n}) + J_{n}(-x_{p}) \\
-    &= J_{S} \left[ \exp(\frac{qV}{KT})-1 \right] \\
-\end{split}}
+    &= J_{\mathrm{p}}(x_{\mathrm{n}}) + J_{\mathrm{n}}(-x_{\mathrm{p}}) \\
+    &= J_{\mathrm{s}} \left[ \exp(\frac{qV}{KT})-1 \right] \\
+\end{split}} \tag{6-36}
 $$
 
 ### 6.2.3 影响 pn 结电流电压特性偏离理想特性的因素
