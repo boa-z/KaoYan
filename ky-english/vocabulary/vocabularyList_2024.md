@@ -589,3 +589,32 @@ terrible  adj. 可怕的，糟糕的；十足的
 [精选辨析]
 后缀 fy 多构成动词 → terrify 是动词，表示“使害怕，使恐惧”
 后缀 ic 多构成形容词 → terrific 是形容词，表示“极好的”
+
+## 2024-10-06
+
+retrieve  vt. 取回，找回；检索数据；挽回
+relieve  vt. 减轻，缓和；给…换班；解手
+rehearse  vi.  vt. (使) 排练，(使) 预演
+reverse  vt. 彻底转变；撤销，推翻；使反转
+release  vt. 释放；松开；发泄；解雇；发布
+
+[精选辨析]
+reverse = re (向后) + vers (词根，转动) → 转变，反转
+
+---
+
+persevere  vi. 坚持不懈，锲而不舍
+preserve  vt. 维护，保护；保持；保存 (食物)
+
+[精选辨析]
+persevere = per (始终) + severe (严格的) → 始终严格要求自己 → 坚持不懈
+
+## 2024-10-14
+
+arrogant  adj. 傲慢的，自大的
+ignorant  adj. 无知的，愚昧的，不知情的
+surrogate  adj. 替代的，代理的
+aroma  n. 芳香，香味
+
+[精选辨析]
+ignorant = ignore (忽视，不理) + ant (形容词后缀) → 忽视知识最终会变成“无知的”人
