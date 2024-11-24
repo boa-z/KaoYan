@@ -609,6 +609,13 @@ preserve  vt. 维护，保护；保持；保存 (食物)
 [精选辨析]
 persevere = per (始终) + severe (严格的) → 始终严格要求自己 → 坚持不懈
 
+## 2024-10-10
+
+sympathize  vi. 支持，赞同
+synthesize  vt. 合成 (物质)；(音响) 合成；综合
+socialize  vi. 社交，与人交往
+hypothesize  vt.  vi. 假设，假定
+
 ## 2024-10-14
 
 arrogant  adj. 傲慢的，自大的
@@ -618,3 +625,29 @@ aroma  n. 芳香，香味
 
 [精选辨析]
 ignorant = ignore (忽视，不理) + ant (形容词后缀) → 忽视知识最终会变成“无知的”人
+
+## 2024-10-15
+
+intersection  n. 交点，道路交叉口；交叉
+interaction  n. 相互影响；交流，沟通
+integration  n. 综合，整合；同化，融入；融合
+
+---
+
+accent  n. 腔调，口音；重音；变音符号
+ardent  adj. 热心的，热切的
+accost  vt. (贸然) 上前搭讪
+ascent  n. 上升；上坡；进步
+
+[精选辨析]
+accent 谐音“爱可深的” → 家乡“口音”难改，是因为对家乡爱得深沉~
+
+---
+
+vest  n. 背心；(特殊用途的) 马甲
+heft  vt. 举起；掂…的重量
+gist  n. 要点，主旨，大意
+vast  adj. 巨大的，广阔的
+
+[精选辨析]
+穿着马甲 (vest) 去投资 (invest)。

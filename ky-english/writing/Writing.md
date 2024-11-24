@@ -59,7 +59,7 @@ Zhang Wei
 
 Dear Li Ming,
 
-I was so excited to hear that you’ve been accepted into [University Name]! This is a huge accomplishment, and I’m incredibly proud of you.
+I was so excited to hear that you’ve been accepted into university! This is a huge accomplishment, and I’m incredibly proud of you.
 
 University life can be both exciting and challenging, but with a little preparation, you’ll be well on your way to success. Remember to **manage your time wisely** by creating a schedule that balances your studies, extracurricular activities, and personal time. **Develop good study habits** by finding a quiet place to study, taking breaks, and seeking help from your professors or classmates when needed. **Get involved** in clubs and organizations to meet new people, explore your interests, and build your network. **Take care of your physical and mental health** by eating well, getting enough sleep, and managing stress.
 
@@ -698,6 +698,21 @@ You should write about 100 words on the ANSWER SHEET.
 Do not use your one name. Use “Li Ming” instead.
 Do not write your address. (10 points)
 
+### 2019 S4 PA Answer v20241116
+
+Subject: Proposal for Debate on City Traffic
+
+Dear Professor Smith,
+
+I propose the debate topic: “Should car ownership in cities be limited to reduce traffic congestion?” This topic is highly relevant as urban areas face increasing traffic and environmental challenges. It allows participants to explore diverse perspectives, such as economic implications, public transportation efficiency, and environmental concerns.
+
+I have arranged for the debate to be held next Friday afternoon in the lecture hall. Two teams, each with four participants, are prepared. I’ve also invited a local urban planner to serve as a guest judge.
+
+Please let me know if you have any suggestions.
+
+Best regards,
+Li Ming
+
 ## 2019 S4 PB
 
 48 Directions:
@@ -757,15 +772,29 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
 
 ## 2020 S4 PA
 
-Part A 47. Directions:
+47 Directions:
 
 Suppose you are planning a tour of a historical site for a group of international students. Write an email to
 
 1. tell them about the site, and
 2. give them some tips for the tour.
 
+You should write about 100 words on the ANSWER SHEET.
 Please write your answer on the ANSWER SHEET.
 Do not use your own name, use "Li Ming" instead. (10 points)
+
+### 2020 S4 PA Answer 真题狂刷配套答案
+
+[2025《考研英语（二）真题狂刷》](https://mall.wendu.com/KQYK/book/2024012600001)
+
+Dear Friends,
+
+As the winter vacation is coming, in order to appreciate Chinese traditional culture, we intend to make a tour of the Forbidden City, the palace of ancient emperors and their families, for all international students. And here are some tips.
+First, all of us should gather at Qianmen subway station at 8 a.m. this Saturday with identification cards, without which you cannot enter the palace. Second, it is highly recommended that you should read and learn the general history of the palace in advance, which can help you appreciate it. Third, the environment of the Forbidden City should be protected by all tourists, so please do not litter carelessly.
+Above are all the tips and do not hesitate to contact me for more details you need.
+
+Yours sincerely,
+Li Ming
 
 ## 2020 S4 PB
 
