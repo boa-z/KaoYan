@@ -6,18 +6,106 @@
 
 标题解释: `2011 S4 PA` = 2011 Section IV Part A，即为 2011 年考研英语二真题第四部分的第一题。
 
----
+## Usage
 
 为了能正确加载 vega-lite 图表，建议使用以下方法
 
 1. Visual Studio Code 编辑器，并安装 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 插件。
 2. 复制 vega-lite 图表代码到 [vega-lite online editor](https://vega.github.io/editor/) 中，并查看生成的图表。
 
----
+## Scoring
 
-作文批改网站：
+### 英语作文批改网站
 
 * [有道写作](https://write.youdao.com/#/home)
+
+### 英语二小作文评分标准
+
+来源: 考研英语作文｜免费Ai批改软件（附指令）
+
+[找到TA - 输入分享的链接即可找到Ta的账号](https://findsomebody.nclgclub.com) -> 感觉发分享链接还是太危险了，通过标题搜索就行
+
+---
+
+你现在是一个中国研究生入学考试英语的主观作文的阅卷老师，请校阅以下考生作文，按照文章内容要点、语法词汇的丰富程度、行文的连贯性来对文章进行打分，并参考以下五档评分标准。
+
+第一档(8~9分)
+很好地完成了试题规定的任务，对目标读者完全产生了预期的效果。
+(1)包含所有内容要点;
+(2)使用丰富的语法结构和词汇;
+(3)语言自然流畅，基本没有语法错误;
+(4)有效地采用了多种衔接手法，文字连贯，层次清晰;
+(5)格式与语域恰当贴切。
+
+第二档(6~7分)
+较好地完成了试题规定的任务，对目标读者产生了预期的效果。
+(1)包含所有内容要点，允许漏掉一两个次重点;
+(2)使用较丰富的语法结构和词汇;
+(3)语言基本准确，只有在试图使用较复杂结构或较高级词汇时才有个别错误;
+(4)采用了适当的衔接手法，层次较清晰，组织较严密;
+(5)格式与语域恰当。
+
+第三档(4~5分)
+基本完成了试题规定的任务，对目标读者基本产生了预期的效果。
+(1)虽然漏掉了一些内容，但包含多数内容要点;
+(2)所使用的语法结构和词汇能满足任务的需求;
+(3)存在一些语法及词汇错误，但不影响整体理解;
+(4)采用了简单的衔接手法，内容基本连贯，层次基本清晰;
+(5)格式与语域基本合理。
+
+第四档(2~3分)
+未能按要求完成试题规定的任务，未能清楚地传达信息给读者。
+(1)漏掉或未能有效阐述一些内容要点，写了一些无关内容;
+(2)语法结构单调、词汇项目有限;
+(3)有较多语法结构及词汇方面的错误，影响了对写作内容的理解;
+(4)未能用恰当的衔接手法，内容缺少连贯性;(5)格式和语域不恰当。
+
+第五档(1分)
+未完成试题规定的任务，未能传达信息给读者。
+(1)明显遗漏主要内容，且有许多不相关的内容;
+(2)语法和词汇项目使用单调、重复;
+(3)语法及词汇有许多错误，有碍读者对内容的理解，语言运用能力差;
+(4)未采用任何衔接手法，内容不连贯，缺少组织、分段;
+(5)无格式和语域概念。
+
+你的回答应该包含处于0~10分的给分、文章所处的档位、给分依据、语法错误和纠正(请先讲一下语法知识点并给出示例)、词汇表达的建议以及完善后的文章。
+注意:请根据题目要求对评分标准进行完善!以上内容不需要你回复，只需要你理解!
+
+这次你要批改的题目为:
+
+### 英语二大作文评分标准
+
+你现在是一个中国研究生入学考试英语二的主观作文的阅卷老师，请校阅以下英文文章，按照文章内容要点、语法词汇的丰富程度、行文的连贯性来对文章进行打分，并参考以下五档评分标准:
+
+第一档(12~14分):
+内容要点:完全准确地解释了图表中的所有信息，并提供了精炼、到位的个人评论。
+语法词汇:使用了多种语法结构和丰富的词汇，表达准确、地道，无明显错误。
+行文连贯:语言自然流畅，逻辑清晰，衔接手法多样且有效，使读者能够轻松理解文章的整体结构和思路。
+格式语域:格式规范，符合学术写作的简短要求;语域恰当，既专业又不失亲和力。
+
+第二档(10~11分):
+内容要点:准确地解释了图表中的大部分信息，个人评论也精炼且相关，但可能漏掉了一两个不太重要的细节。
+语法词汇:使用了较丰富的语法结构和词汇，但在尝试使用更复杂或更高级的表达时，偶尔会出现个别小错误，但不影响整体理解。
+行文连贯:语言基本准确，逻辑清晰，衔接手法适当，整体连贯性较好。
+格式语域:格式基本规范，语域较为恰当，能够体现学术写作的简短特点。
+
+第三档(7~9分):
+内容要点:解释了图表中的主要内容，但可能漏掉了一些细节或未能完全准确地阐述某些信息。个人评论较为简单或不够深入，但仍与图表内容相关。语法词汇:所使用的语法结构和词汇基本能够满足任务需求，但可能较为单调或缺乏变化，偶尔出现小错误。
+行文连贯:存在一些语法及词汇错误，但不影响整体理解。衔接手法较为简单，但内容基本连贯。格式语域:格式和语域基本合理，但可能缺乏一些学术写作的规范性或专业性，但仍符合简短写作的要求。
+
+第四档(5~6分):
+内容要点:未能完全解释图表中的所有信息，或解释不准确。个人评论与图表内容关联不大，但仍有相关性。
+语法词汇:语法结构单调、词汇项目有限，且存在较多语法结构及词汇方面的错误，影响了对写作内容的理解。
+行文连贯:未能用恰当的衔接手法，内容缺少连贯性，逻辑不清晰，但勉强能表达出基本意思。
+格式语域:格式和语域不够恰当，但仍在可接受范围内，符合简短写作的最低要求。
+
+第五档(1~4分):
+内容要点:明显遗漏图表中的主要内容，且个人评论与图表内容无关或完全偏离主题。
+语法词汇:语法和词汇项目使用单调、重复，且存在大量错误，严重妨碍了读者对内容的理解。
+行文连贯:未采用任何衔接手法，内容不连贯，缺乏组织性和分段，几乎无法表达出完整的意思。
+格式语域:无格式和语域概念，完全不符合学术写作的简短要求。
+
+注意:评分应更加注重内容的精炼性和话题的相关性，不要求对深入分析原因，此次内容无需回复，只需要你理解。
 
 ---
 
@@ -59,9 +147,9 @@ Zhang Wei
 
 Dear Li Ming,
 
-I was so excited to hear that you’ve been accepted into university! This is a huge accomplishment, and I’m incredibly proud of you.
+I was so excited to hear that you've been accepted into university! This is a huge accomplishment, and I'm incredibly proud of you.
 
-University life can be both exciting and challenging, but with a little preparation, you’ll be well on your way to success. Remember to **manage your time wisely** by creating a schedule that balances your studies, extracurricular activities, and personal time. **Develop good study habits** by finding a quiet place to study, taking breaks, and seeking help from your professors or classmates when needed. **Get involved** in clubs and organizations to meet new people, explore your interests, and build your network. **Take care of your physical and mental health** by eating well, getting enough sleep, and managing stress.
+University life can be both exciting and challenging, but with a little preparation, you'll be well on your way to success. Remember to **manage your time wisely** by creating a schedule that balances your studies, extracurricular activities, and personal time. **Develop good study habits** by finding a quiet place to study, taking breaks, and seeking help from your professors or classmates when needed. **Get involved** in clubs and organizations to meet new people, explore your interests, and build your network. **Take care of your physical and mental health** by eating well, getting enough sleep, and managing stress.
 
 I wish you all the best in your university journey!
 
@@ -184,7 +272,7 @@ Do not write your address. (10 points)
 
 Dear classmates,
 
-I am writing to inform you that our class is going to hold a charity sale for kids in need of help. The sale will take place in the school playground this Saturday from 9:00 a.m. to 4:00 p.m. We will sell all kinds of things, such as clothes, toys, and books. All the money we raise will be used to help the kids in need. I hope you can all participate in this meaningful activity. Let’s show our love and care for the kids in need.
+I am writing to inform you that our class is going to hold a charity sale for kids in need of help. The sale will take place in the school playground this Saturday from 9:00 a.m. to 4:00 p.m. We will sell all kinds of things, such as clothes, toys, and books. All the money we raise will be used to help the kids in need. I hope you can all participate in this meaningful activity. Let's show our love and care for the kids in need.
 
 Li Ming
 
@@ -706,7 +794,7 @@ Dear Professor Smith,
 
 I propose the debate topic: “Should car ownership in cities be limited to reduce traffic congestion?” This topic is highly relevant as urban areas face increasing traffic and environmental challenges. It allows participants to explore diverse perspectives, such as economic implications, public transportation efficiency, and environmental concerns.
 
-I have arranged for the debate to be held next Friday afternoon in the lecture hall. Two teams, each with four participants, are prepared. I’ve also invited a local urban planner to serve as a guest judge.
+I have arranged for the debate to be held next Friday afternoon in the lecture hall. Two teams, each with four participants, are prepared. I've also invited a local urban planner to serve as a guest judge.
 
 Please let me know if you have any suggestions.
 
@@ -845,6 +933,24 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
   }]
 }
 ```
+
+### 2020 S4 PB Answer 真题狂刷配套答案
+
+[2025《考研英语（二）真题狂刷》](https://mall.wendu.com/KQYK/book/2024012600001)
+
+What is clearly depicted in the pie chart is the cellphone reading purposes of students in a certain college. It can be seen that most of the students, which accounts for 59.5%, read by cellphones to acquire knowledge. And 21.3% and 17% of them read for killing time and obtaining information, respectively. There are also 2. 2% of them read for other reasons.
+
+What can be easily deduced from the chart is that students now make full use of cellphones to learn. It can be caused by two factors. First, a great deal of information and knowledge has been provided on the Internet, and through cellphones, youngsters can smoothly get access to them whenever and wherever. Second, there has been a growing awareness among students to read to increase their knowledge, and instead of idling time away, many of them choose to obtain knowledge using cellphones.
+
+Indispensable as cellphones are to our daily life, the right and beneficial use of them is important. And only when we all use the technologies in a right way, can we benefit from them.
+
+（基于 ChatGPT 进行了部分美化）-> ~~最幽默的一集，美化完，评分还变低了。~~ 弱智有道不行，该派出 GPT 了，详见[Scoring](#scoring)。
+
+The pie chart clearly shows the purposes of cellphone reading among students in a certain college. Most students, accounting for 59.5%, use their cellphones to acquire knowledge. Additionally, 21.3% read for entertainment, and 17% for obtaining information. Another 2.2% read for other purposes.
+
+The chart suggests that students are effectively using cellphones as learning tools. This can be attributed to two main factors. First, the Internet offers abundant knowledge and information, which students can easily access via cellphones anytime and anywhere. Second, students are increasingly aware of the importance of reading to gain knowledge. Instead of wasting time, many choose to utilize cellphones for learning.
+
+While cellphones are indispensable in daily life, it is crucial to use them wisely and effectively. Only by using technology responsibly can we fully reap its benefits.
 
 ## 2021 S4 PA
 
