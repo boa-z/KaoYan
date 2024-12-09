@@ -154,7 +154,17 @@ $$
 
 ### 6.3.2 突变结的势垒电容
 
-？
+突变结接触电势差 $V_D$
+
+$$
+V_D = (\frac{q}{2 \varepsilon_r \varepsilon_0}) (\frac{N_A N_D}{N_A + N_D}) X_D^2
+$$
+
+突变结的势垒宽度 $X_D$
+
+$$
+X_D = \sqrt{V_D (\frac{2 \varepsilon_r \varepsilon_0}{q}) (\frac{N_A + N_D}{N_A N_D})}
+$$
 
 ### 6.3.3 线性缓变结的势垒电容
 

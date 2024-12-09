@@ -14,6 +14,8 @@
 
 1、【答】
 
+// 百度文库版本答案
+
 P 型硅, $p_{p 0}=N_A$, 表面本征时, $V_S>0$, 能带不弯, $n_s=p_s$
 
 由`公式8-17`得, $n_s=n_{p 0} \exp \left(\frac{q V_s}{k T}\right) = \frac{n_i^2}{N_A} \exp \left(\frac{q V_s}{k T}\right)$
@@ -51,13 +53,19 @@ $Q_s=-\frac{k T \varepsilon_{rs} \varepsilon_0}{q L_D} F_s=-\frac{\sqrt{2} \vare
 $C_s=\frac{\varepsilon_{rs} \varepsilon_0}{L_D}\left[-e^{-\frac{q V_s}{k T}}+1+\frac{n_{p 0}}{p_{p 0}}\left(\frac{q V_s}{e^{k T}}-1\right)\right]=\frac{\varepsilon_{rs} \varepsilon_0}{\sqrt{2} L_D} \frac{1}{\left(\frac{q V_s}{k T}\right)^{\frac{1}{2}}}$
 $=\frac{\varepsilon_n \varepsilon_0}{\sqrt{2} L_D}\left(\frac{1}{\ln \frac{N_A}{n}}\right)^{\frac{1}{2}}=\frac{\varepsilon_{rs} \varepsilon_0}{\sqrt{2} L_D}\left(\frac{k T}{q V_s}\right)^{\frac{1}{2}}$, 其中 $L_D=\left(\frac{\varepsilon_{rs} \varepsilon_0 k T}{q^2 N_A}\right)^{\frac{1}{2}}$
 
+// 研分版本答案
+
+* [ ] TODO: 补充研分版本答案
+
 ---
 
 2、对于电阻率为 $8 \Omega \cdot \text{cm}$ 的 n 型硅，求当表面势 $V_{\text{s}} = -0.24 \text{V}$ 时耗尽层的宽度。
 
 2、【答】
 
-$\rho=8 \Omega \cdot \text{cm}$, 查`图 4-15`，$\to N_{D}=6 \times 10^{14} / \text{cm}^3$
+// 百度文库版本答案
+
+$\rho=8 \Omega \cdot \text{cm}$, 查`图 4-15`，$\to N_{D} = 6 \times 10^{14} / \text{cm}^3$
 
 $2 V_B=-\frac{2 k T}{q} \ln \frac{N_A}{n_i}=-0.55 \text{V}$，
 $\left|V_s\right| < \left|V_B\right|$，所以为表面耗尽
@@ -66,7 +74,7 @@ $\left|V_s\right| < \left|V_B\right|$，所以为表面耗尽
 
 积分得 $\frac{d V(x)}{d x}=-\frac{q N_D}{\varepsilon_{r s} \varepsilon_0}+A$
 
-边界条件：$x=x_d$，场强为 0，
+边界条件：$x = x_d$，场强为 0，
 
 即 $\left.\frac{d V(x)}{d x}\right|_{x=x_d}=0$，$A=\frac{q N_D}{\varepsilon_{r s} \varepsilon_{0}} x$
 
@@ -87,13 +95,26 @@ $= 7.26 \times 10^{-7} \text{m}=0.726 \mu \text{m}$
 
 若 $N_D=5.5 \times 10^{14} / \text{cm}$，$x_d=7.56 \times 10^{-5} \text{cm}$
 
+// 研分版本答案
+
+$\rho=8 \Omega \cdot \text{cm} \to N_{D} = 7 \times 10^{14} \text{cm}^{-3}$
+
+由 $n_{n0} = N_C \exp \left(-\frac{E_C - E_F}{k_0 T}\right) = n_i \exp \left(\frac{E_F - E_i}{k_0 T}\right)$
+
+记 $q V_B = E_F - E_i$，则 $V_B = \frac{k_0 T}{q} \ln \frac{n_{n0}}{n_i} = \frac{k_0 T}{q} \ln \frac{N_D}{n_i}$
+$= 0.026 \ln \frac{7 \times 10^{14}}{1.5 \times 10^{10}} = 0.28 \text{V}$
+
+$|V_s| < V_B$，故为表面耗尽
+
+由 $|V_s| = \frac{q N_D x_d^2}{2 \varepsilon_{rs} \varepsilon_0}$，得 $x_d = \sqrt{\frac{2 \varepsilon_{rs} \varepsilon_0 |V_s|}{q N_D}} = \sqrt{\frac{2 \times 11.9 \times 8.85 \times 10^{-12} \times 0.24}{1.6 \times 10^{-19} \times 7 \times 10^{14} \times 10^{6}}} = 0.672 \mu \text{m}$
+
 ---
 
 3、对由电阻率为 $5 \Omega \cdot \text{cm}$ 的 n 型硅和厚度为 $100 \text{nm}$ 的二氧化硅膜组成的 MOS 电容，计算其室温（$27^\circ \text{C}$）下的平带电容 $C_{\text{FB}}/C_{\text{0}}$。
 
 3、【答】
 
-由`式 8-66`中 $N_A$ 用 $N_D$ 代替，$\rho=5 \Omega \cdot \text{cm}$，
+由`公式 8-66`中 $N_A$ 用 $N_D$ 代替，$\rho=5 \Omega \cdot \text{cm}$，
 $N_D=9 \times 10^{14} / \text{cm}^2=9 \times 10^{20} / \text{m}^3$，
 $\varepsilon_{rs}=11.9$，$\varepsilon_{ro}=3.8$，$\varepsilon_0=8.85 \times 10^{-12} \text{F} / \text{m}$，
 $k T=0.026 \text{eV}$，$k=1.38 \times 10^{-23} \text{T} / \text{K}$
