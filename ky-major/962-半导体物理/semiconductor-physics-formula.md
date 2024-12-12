@@ -13,17 +13,17 @@
 
 ## 第三章
 
-- 导带电子浓度 $n_0 = N_C \exp(-\frac{E_C - E_F}{k_B T})$
-- 价带空穴浓度 $p_0 = N_V \exp(\frac{E_V - E_F}{k_B T})$
+- 导带电子浓度 $n_0 = N_C \exp(-\frac{E_C - E_\text{F}}{k_B T})$
+- 价带空穴浓度 $p_0 = N_V \exp(\frac{E_V - E_\text{F}}{k_B T})$
 - 费米能级
-  - $E_F = E_C + k_0 T \ln(\frac{N_D - N_A}{N_C})$
-  - $E_F = E_i + k_0 T \ln(\frac{n_0 - p_0}{n_i})$
+  - $E_\text{F} = E_C + k_0 T \ln(\frac{N_D - N_A}{N_C})$
+  - $E_\text{F} = E_i + k_0 T \ln(\frac{n_0 - p_0}{n_i})$
 - 平衡载流子密度积 $n_0 p_0 = n_i^2 = N_C N_V \exp(-\frac{E_g}{k_B T})$
 - 本征载流子密度 $n_0 = (N_C N_V)^{1/2} \exp(-\frac{E_g}{2 k_B T})$
-- 简并化条件 $E_C - E_F \leq 0$
+- 简并化条件 $E_C - E_\text{F} \leq 0$
 - 电中性条件 $n_0 + p_A^- = p_0 + n_D^+$
-- 电子费米分布 玻尔兹曼分布 $f(E) = \frac{1}{1 + \exp(\frac{E - E_F}{k_B T})}$
-- 空穴费米分布 玻尔兹曼分布 $f(E) = \frac{1}{\exp(\frac{E_F - E}{k_B T})}$
+- 电子费米分布 玻尔兹曼分布 $f(E) = \frac{1}{1 + \exp(\frac{E - E_\text{F}}{k_B T})}$
+- 空穴费米分布 玻尔兹曼分布 $f(E) = \frac{1}{\exp(\frac{E_\text{F} - E}{k_B T})}$
 - 完全电离浓度上限 $N_A = N_A^* \exp(-\frac{\Delta E_C}{k_B T})$
 
 ## 第四章
@@ -67,7 +67,7 @@
 
 ## 第八章
 
-- $V_A = E_F - E_i$
+- $V_A = E_\text{F} - E_i$
 - 强反型条件 $V_S \geq 2 V_A$
 - 势垒宽度 $x_d = \sqrt{\frac{2 V_S \epsilon_r \epsilon_0}{q N_A}}$
 - 最大势垒宽度 $x_{dm} = \sqrt{4 V_A \epsilon \epsilon_0}$

@@ -78,7 +78,7 @@ $$
 理想 pn 结模型的电流电压方程
 
 $$
-J = J_{S} \left[ \exp(\frac{qV}{kT})-1 \right]
+J = J_{S} \left[ \exp(\frac{qV}{kT})-1 \right] \tag{6-36}
 $$
 
 pn 结的单向导电性 = 整流效应

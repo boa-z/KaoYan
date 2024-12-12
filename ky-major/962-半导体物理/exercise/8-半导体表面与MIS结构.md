@@ -99,9 +99,9 @@ $= 7.26 \times 10^{-7} \text{m}=0.726 \mu \text{m}$
 
 $\rho=8 \Omega \cdot \text{cm} \to N_{D} = 7 \times 10^{14} \text{cm}^{-3}$
 
-由 $n_{n0} = N_C \exp \left(-\frac{E_C - E_F}{k_0 T}\right) = n_i \exp \left(\frac{E_F - E_i}{k_0 T}\right)$
+由 $n_{n0} = N_C \exp \left(-\frac{E_C - E_\text{F}}{k_0 T}\right) = n_i \exp \left(\frac{E_\text{F} - E_i}{k_0 T}\right)$
 
-记 $q V_B = E_F - E_i$，则 $V_B = \frac{k_0 T}{q} \ln \frac{n_{n0}}{n_i} = \frac{k_0 T}{q} \ln \frac{N_D}{n_i}$
+记 $q V_B = E_\text{F} - E_i$，则 $V_B = \frac{k_0 T}{q} \ln \frac{n_{n0}}{n_i} = \frac{k_0 T}{q} \ln \frac{N_D}{n_i}$
 $= 0.026 \ln \frac{7 \times 10^{14}}{1.5 \times 10^{10}} = 0.28 \text{V}$
 
 $|V_s| < V_B$，故为表面耗尽
