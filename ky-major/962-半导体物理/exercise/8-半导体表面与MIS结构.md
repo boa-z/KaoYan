@@ -8,7 +8,7 @@
 
 [半导体物理 8](https://wenku.baidu.com/view/99c3de649b6648d7c1c74616?pcf=2&bfetype=new&bfetype=new&_wkts_=1725500706332)
 
----
+### 书后习题 8.1
 
 1、试导出使表面恰为本征时的表面电场强度、表面电荷密度和表面层电容的表示式（p 型硅情形）。
 
@@ -57,7 +57,7 @@ $=\frac{\varepsilon_n \varepsilon_0}{\sqrt{2} L_D}\left(\frac{1}{\ln \frac{N_A}{
 
 * [ ] TODO: 补充研分版本答案
 
----
+### 书后习题 8.2
 
 2、对于电阻率为 $8 \Omega \cdot \text{cm}$ 的 n 型硅，求当表面势 $V_{\text{s}} = -0.24 \text{V}$ 时耗尽层的宽度。
 
@@ -108,7 +108,7 @@ $|V_s| < V_B$，故为表面耗尽
 
 由 $|V_s| = \frac{q N_D x_d^2}{2 \varepsilon_{rs} \varepsilon_0}$，得 $x_d = \sqrt{\frac{2 \varepsilon_{rs} \varepsilon_0 |V_s|}{q N_D}} = \sqrt{\frac{2 \times 11.9 \times 8.85 \times 10^{-12} \times 0.24}{1.6 \times 10^{-19} \times 7 \times 10^{14} \times 10^{6}}} = 0.672 \mu \text{m}$
 
----
+### 书后习题 8.3
 
 3、对由电阻率为 $5 \Omega \cdot \text{cm}$ 的 n 型硅和厚度为 $100 \text{nm}$ 的二氧化硅膜组成的 MOS 电容，计算其室温（$27^\circ \text{C}$）下的平带电容 $C_{\text{FB}}/C_{\text{0}}$。
 
@@ -127,7 +127,7 @@ $$
 \end{aligned}
 $$
 
----
+### 书后习题 8.6
 
 6、平带电压 $V_{\text{FB}}$ 与金属一半导体的功函数差及固定电荷密度有关。试设想一种方法，可以从测量不同氧化层厚度的 MOS 电容器的平带电压来确定这两个因素。
 
@@ -135,9 +135,9 @@ $$
 
 $V_{FB} = - V_{\text{ms}} - \frac{1}{C_{\text{0}}} \int_{0}^{d_{\text{o}}} \frac{x\rho_{\text{o}}}{d_{0}} d x$
 
-...
+<!-- 感觉必不会考，直接跳过 -->
 
----
+### 书后习题 8.7
 
 7、试计算下列情况下平带电压的变化：
 
@@ -149,4 +149,4 @@ $V_{FB} = - V_{\text{ms}} - \frac{1}{C_{\text{0}}} \int_{0}^{d_{\text{o}}} \frac
 
 > 教师：这个考的可能性也不是很大罢。
 
-...
+<!-- 感觉必不会考，直接跳过 -->
