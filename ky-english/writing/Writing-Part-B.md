@@ -8,6 +8,188 @@
 
 不过从侧重点上看，IELTS 考试中的图表作文更侧重于对图表的描述，而在考研英语中，图表作文还需要加入自己的观点，所以在这里会加入一些新的内容。
 
+## 颉斌斌大作文模版个人修改版
+
+### 第一段
+
+#### (一) 引出主题
+
+该句为第一段第 1 句，在以下句中任选其一
+
+1. The information in the graph clearly shows (主题)
+图表中的信息清楚地显示了(主题)。
+
+2. (主题) is what the chart tries to convey.
+(主题)是图表想要传达的信息。
+
+3. What is explicitly/clearly presented/shown in the chart is a set of data about(主题).
+该图表中清楚地显示了一组关于(主题)的数据。
+
+例 1：The information in the graph clearly shows the different proportions of residents’ consumption in a city of China during the Spring Festival. (2015 英语二大作文——饼状图)
+例 2：What is clearly shown in the chart is a set of data about the change of the number of museums and visitors in China from 2013 to 2015. (2017 英语二大作文——线状图)
+
+#### (二) 描述图表
+
+该句为第一段第 2 句，根据图表类型，在相应描述图表句中任选
+
+##### 1. 饼状图/表格
+
+注意：重点分析数据的占比。
+
+(1) X accounts for the highest percentage at x% of 主题词, followed by B at y% and C, z%. At the bottom of the chart, k% is regarded as D.
+
+(2) The total statistics are divided into X parts, among which A accounts for x%, while B, C and D take up y%, z% and k% respectively；
+
+##### 2. 柱状图/线状图
+
+注意：重点分析数据的变化，句式需要“静动结合”
+
+(1) 数据标题+副词+动词+范围 (动态句式)
+
+例 ： The number of museums dramatically increased/steeply dropped from 4165/4692 in 2013 to 4692/4165 in 2015.
+
+博物馆数量急剧增加/减少，从 2013 年的 4165/4692 家增加/减少到 2015 年的 4692/4165 家。
+
+(2) There be +名词词组+in+数据标题+数据变化 (静态句式)
+
+例 ： There was a dramatic increase/steep drop in the number of museums from 4165//4692 in 2013 to 4692/4165 in 2015.
+博物馆数量急剧增加/减少，从 2013 年的 4165/4692 家增加/减少到 2015 年的 4692/4165 家。
+
+(3) 时间+witness / see+形容词+名词+in+数据标题+数据变化 (静态句式)
+
+例：The past few years between 2013 and 2015 witnessed a dramatic increase/steep drop in the number of museums from 4165 to 4692.
+博物馆数量急剧增加/减少，从 2013 年的 4165/4692 家增加/减少到 2015 年的 4692/4165 家
+
+(4) 介词+形容词+名词 (静态句式)
+
+例：The proportion of college students taking part-time jobs is on stable rise/in stable decline.
+大学生参加兼职的比例在逐渐上升/下降。
+
+(5) 描述趋势发生逆转(先升后降或先降后升)：描述对象+ had increased / decreased to +数值+ by (可根据不同时间替换介词) +时间点+ before + decreasing / increasing to + 数值 + by (可根据不同时间替换介词) +时间点.
+
+例：The expense had decreased to 34% in 2001 before increasing to 53% in 2003.
+
+花销在 2001 年先下降到了 34%，然后在 2003 年又上升到了 53%。
+
+##### 3. 两个句子组合
+
+句式：S1+V1+O1 逻辑词，S2+V2+O2 +during the same period.
+
+* 描述相同变化可用的逻辑词：likewise / similarly/ in the same way
+* 描述相反变化可用的逻辑词：but / yet / however/ on the contrary
+* 描述相同相反变化均可用的逻辑词：meanwhile / furthermore / additionally
+
+#### (三)评价图表(可有可无)
+
+该句为第一段第 3 句，在所给句中任选其一
+
+1. What the chart tries to convey has profound practical significance.
+该图表试图传达的信息具有深刻的现实意义。
+
+2. Simple as the chart looks, its implicit meaning should be thought-provoking.
+尽管图表看起来很简单，但其内涵是发人深省的。
+
+3. The graph, at the first glimpse, seems to be simple, but the deep meaning behind it is worth pondering.
+该图表乍一看似乎很简单，但其深层含义值得深思。
+
+### 第二段
+
+#### (一)重申主题+分析原因
+
+该句为第二段第 1 句，在所给句中任选其一
+
+1. The contributing factors responsible for this phenomenon can be summarized as follows.
+导致该现象的原因可以总述如下。
+
+2. The reasons that caused the phenomenon are obvious and within easy reach.
+导致这一现象的原因是显而易见的。
+
+3. After observation and consideration, some reasons of (主题词) can be highlighted / listed as follows.
+经过观察和考虑，将一些原因列举如下。
+
+#### (二)原因 1+调查研究
+
+##### 1. 引出原因的连接词
+
+(1) first of all, in addition
+
+(2) in the first place, in the second place
+
+(3) firstly, moreover
+
+### 第三段
+
+#### (一)升华主题
+
+该句为第三段第 1 句，在以下句中任选其一
+
+1. The above-mentioned facts can naturally lead us to the conclusion that great importance should be attached to(主题词).
+从上述事实中我们自然地得出结论，即应该对(主题词)给予重视。
+
+2. Taking all these factors into account, we may reach the conclusion that / it is easy to reach the conclusion that great importance should be attached to(主题词).
+考虑了所有的这些因素，我们可以得出结论 / 很容易得出结论，即应对(主题词)给予重视。
+
+3. All these factors support a rational conclusion that great importance should be attached to(主题词) 所有这些因素都支持一个合理的结论，即应该对(主题词)给予重视。
+
+#### (二)建议措施
+
+该句为第三段第 2 句，在以下句中任选其一或二，可从不同角度选取，如媒体+政府。
+
+##### 1. 媒体：宣传、报道、揭露
+
+(1) Newspapers and news media should promote publicity of it / launch promotions of it/reveal and prevent it. 报纸和新闻媒体应该宣传报道它/揭露和阻止它。
+
+(2) What cannot be neglected is that vigorous promotion and advocacy are indispensable means.
+
+不可忽视的是，大力宣传和倡导是必不可少的手段。
+
+(3) In the field of social media that meant it is significant to advance the publicity of …
+
+在社交媒体领域，这意味着对…的宣传报道是必不可少的。
+
+##### 2. 政府：制定法律和采取措施
+
+(1) The implementation of the measures of doing(主题词)by the government should be under way.
+
+政府应该实施各项有关(主题词)的措施。
+
+(2) Strict laws and disciplines can guarantee the smooth running of the society.
+
+严格的法律和纪律可以保证社会的平稳运行。
+
+(3) The government should formulate better laws and regulations to encourage the development of (主题词).
+
+政府应实施合理的法律法规来推进(主题词)的发展。
+
+##### 3. 个人：树立意识和采取行动
+
+(1) Everyone should cultivate a better awareness of it and take practical actions.
+
+每个人都应更好地意识到这一点，并采取实际行动。
+
+(2) It is vital / crucial / essential for everyone to foster correct awareness. 树立正确的意识对每个人来说都是重要的/关键的/必不可少的。
+
+#### (三)展望未来(可有可无)
+
+该句为第三段第 3 句，在以下句中任选其一
+
+1. If these measures can be taken effectively, a bright future must be on the way.
+如果这些措施能够被有效实施，光明的未来就在不远处。
+
+2. Only in this way would our life become more real and meaningful.
+只有这样，我们的生活才能变得更加真实和富有意义。
+
+3. It is predictable that if these measures can be taken effectively, the future, by all means, will be brighter.
+可以预见的是，如果这些措施能够被有效实施，那么未来无论如何都会更加光明。
+
+### 模板组合示例
+
+(主题)is clearly shown in the picture/What is explicitly presented in the above pie chart is a set of data about(数据标题).【以饼状图为例】X accounts for the highest percentage at x%, followed by B at y% and C, z%. At the bottom of the chart, k% is regarded as D./ 【以线状图为例】数据标题 dramatically increased/steeply dropped from 数据 1 (in 年份 1) to 数据 2 (in 年份 2). (What the chart tries to convey has profound practical significance.)
+
+The contributing factors responsible for this phenomenon can be summarized as follows. First of all, it is generally recognized that nothing is more important than (四大万能理由) for (主题词). Depending upon a rough estimate of the relevant department, nearly 86.2% of the respondents hold the same view. In addition, (四大万能理由) exerts a positive influence on (主题词). ~~As Edward Zlotkowski, director of community service at Bentley College in Massachusetts, puts it, “(万能理由), under any circumstances, tends to be of great importance for us.”~~
+
+The above-mentioned facts can naturally lead us to the conclusion that great importance should be attached to (主题词). First, newspapers and news media should promote publicity of it. What’s more, the implementation of the measures of doing (主题词) by the government should be under way. (Only in this way would our life become more real and meaningful.)
+
 ## 折线图
 
 ![the annual earnings of three bakeries in London](https://www.testbig.com/sites/default/files/styles/max_650x650/public/tải%20xuống_0.jpg)

@@ -127,7 +127,7 @@ Suppose your cousin Li Ming has just been admitted to a university. Write him/he
 2. give him/her suggestions on how to get prepared for university life.
 
 You should write about 100 words on ANSWER SHEET 2.
-Do not sign your own name at the end of the letter. Use “Zhang Wei” instead. Do not write the address. (10 points)
+Do not sign your own name at the end of the letter. Use "Zhang Wei" instead. Do not write the address. (10 points)
 
 ### 2011 S4 PA Answer v20240825.1
 
@@ -196,7 +196,7 @@ Suppose you have found something wrong with the electronic dictionary that you b
 2. demand a prompt solution.
 
 You should write about 100 words on ANSWER SHEET 2.
-Do not sign your own name at the end of the letter. Use “Zhang Wei” instead.
+Do not sign your own name at the end of the letter. Use "Zhang Wei" instead.
 Do not write the address. (10 points)
 
 ### 2012 S4 PA Answer v20240825
@@ -265,7 +265,7 @@ Suppose your class is to hold a charity sale for kids in need of help. Write you
 2. encourage them to participate.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your own name. Use “Li Ming” instead.
+Do not use your own name. Use "Li Ming" instead.
 Do not write your address. (10 points)
 
 ### 2013 S4 PA Answer v20240825
@@ -306,7 +306,7 @@ Suppose you are going to study abroad and share an apartment with John, a local 
 1. tell him about your living habits, and
 2. ask for advice about living there.
 
-You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead.
+You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use "Li Ming" instead.
 
 Do not write your address. (10 points)
 
@@ -473,7 +473,7 @@ Suppose you won a translation contest and your friend, Jack, wrote an email to c
 2. give your advice.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your own name. Use “Li Ming” instead.
+Do not use your own name. Use "Li Ming" instead.
 Do not write your address. (10 points)
 
 ### 2016 S4 PA Answer v20240825
@@ -558,7 +558,7 @@ Suppose you are invited by Professor Williams to give a presentation about Chine
 2. introduce the key points of your presentation.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your own name. Use “Li Ming” instead.
+Do not use your own name. Use "Li Ming" instead.
 Do not write your address. (10 points)
 
 ### 2017 S4 PA Answer v20240827
@@ -580,6 +580,19 @@ Thank you for inviting me to give a presentation on Chinese culture to the inter
 During the presentation, I plan to introduce the key aspects of Chinese culture, including its history, traditions, and customs. I will also discuss Chinese festivals and celebrations, such as the Lunar New Year, Mid-Autumn Festival, and Dragon Boat Festival. Additionally, I will highlight the influence of Chinese culture in modern society, focusing on art, music, literature, and cinema. I hope this presentation will provide the international students with a deeper understanding of China's cultural diversity and heritage.
 
 Thank you once again for this opportunity. I am excited to contribute to the cultural exchange at the university.
+
+Best regards,
+Li Ming
+
+### 2017 S4 PA Answer v20241215
+
+Dear Professor Williams,
+
+I am honored to accept your invitation to give a presentation on Chinese culture to international students. I am excited to share my knowledge and insights about China's rich cultural heritage.
+
+Regarding the key points of my presentation, I plan to introduce the history, traditions, and customs of Chinese culture. Firstly, I will provide an overview of China's long history. Secondly, I will discuss Chinese festivals, such as the Lunar New Year, highlighting their cultural importance and unique traditions. Lastly, I will explore the influence of Chinese culture in modern society, including art, music, literature, and cinema.
+
+I would appreciate it if you could provide me with more suggestions. I am looking forward to contributing to the cultural exchange at the university.
 
 Best regards,
 Li Ming
@@ -702,7 +715,7 @@ Suppose you have to cancel your travel plan and will not be able to visit Profes
 2. suggest a future meeting.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your own name. Use “Li Ming” instead.
+Do not use your own name. Use "Li Ming" instead.
 Do not write your address. (10 points)
 
 ### 2018 S4 PA Answer v20240904
@@ -783,7 +796,7 @@ Suppose Professor Smith asked you to plan a debate on the theme of city traffic.
 2. tell him about your arrangements.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your one name. Use “Li Ming” instead.
+Do not use your one name. Use "Li Ming" instead.
 Do not write your address. (10 points)
 
 ### 2019 S4 PA Answer v20241116
@@ -792,7 +805,7 @@ Subject: Proposal for Debate on City Traffic
 
 Dear Professor Smith,
 
-I propose the debate topic: “Should car ownership in cities be limited to reduce traffic congestion?” This topic is highly relevant as urban areas face increasing traffic and environmental challenges. It allows participants to explore diverse perspectives, such as economic implications, public transportation efficiency, and environmental concerns.
+I propose the debate topic: "Should car ownership in cities be limited to reduce traffic congestion?" This topic is highly relevant as urban areas face increasing traffic and environmental challenges. It allows participants to explore diverse perspectives, such as economic implications, public transportation efficiency, and environmental concerns.
 
 I have arranged for the debate to be held next Friday afternoon in the lecture hall. Two teams, each with four participants, are prepared. I've also invited a local urban planner to serve as a guest judge.
 
@@ -800,6 +813,38 @@ Please let me know if you have any suggestions.
 
 Best regards,
 Li Ming
+
+### 2019 S4 PA Answer v20241215
+
+Dear Professor Smith,
+
+I am writing this letter to propose a debate topic for our upcoming discussion on city traffic. I suggest the topic: "The Impact of Shared Bicycles on City Traffic".
+
+Regarding the arrangements, firstly, I suggest hosting the debate in the Classroom 101 which can accommodate a large audience on Friday afternoon. Secondly, I choose this topic as it is a realistic issue exists in not only our city but also our school's traffic. In addition, I have invited a local traffic expert to serve as a guest judge for the debate.
+
+I will be appreciative of any feedback or suggestions you may have regarding the proposed topic and arrangements.
+
+Best regards,
+Li Ming
+
+参考分数: 7/10
+
+---
+
+Optimized by ChatGPT:
+
+Dear Professor Smith,  
+
+I am writing this letter to propose a debate topic for our upcoming discussion on city traffic. I suggest the topic: "The Role of Shared Bicycles in Alleviating City Traffic Congestion."  
+
+Regarding the arrangements, firstly, I propose hosting the debate in Classroom 101, which can accommodate a large audience, on Friday afternoon. Secondly, I chose this topic because it addresses a realistic issue that exists not only in our city but also in the traffic on our campus. Additionally, I have invited a distinguished local traffic expert to serve as a guest judge for the debate.  
+
+I would greatly appreciate your feedback or suggestions on the proposed topic and arrangements.  
+
+Best regards,  
+Li Ming  
+
+参考分数: 8/10
 
 ## 2019 S4 PB
 
@@ -884,6 +929,19 @@ Above are all the tips and do not hesitate to contact me for more details you ne
 Yours sincerely,
 Li Ming
 
+### 2020 S4 PA Answer v20241215
+
+Dear Friends,
+
+I am excited to announce that we will be visiting the Forbidden City, a historical site that served as the imperial palace for ancient Chinese emperors. The Forbidden City is renowned for its magnificent architecture, cultural significance, and rich history.
+
+Regarding our tour, we will meet at Qianmen subway station at 8 a.m. this Saturday. First, please ensure you bring your identification cards, as they are required for entry. Second, I recommend reading about the history of the Forbidden City beforehand to enhance your understanding and appreciation of the site. Lastly, please help us maintain the cleanliness of the environment by refraining from littering.
+
+I'm looking forward to exploring this iconic landmark with all of you. If you have any questions, feel free to contact me.
+
+Best regards,
+Li Ming
+
 ## 2020 S4 PB
 
 48 Directions:
@@ -964,6 +1022,21 @@ Suppose you are organizing an online meeting. Write an email to Jack, an interna
 You should write about 100 words on the ANSWER SHEET.
 Do not use your own name. Use "Li Ming" instead. (10 points)
 
+### 2021 S4 PA Answer v20241215
+
+Dear Jack,
+
+I'm writing this email to invite you to participate in an online meeting this Sunday. The meeting will be held via Zoom at 10 a.m. and will focus on discussing the software development competition. We would greatly appreciate your insights and contributions to the discussion.
+
+Regarding the software development competition, I personally believe that your expertise and experience would be valuable to the team. First of all, this competition requires an English essay, which is your strength. Secondly, your experience in software development will be beneficial to the team. In addition, if we win the competition, we will have the opportunity to participate in the national competition. Therefore, your participation is crucial to our success.
+
+I would appreciate it if you could take my recommendation into consideration and join us for the online meeting.
+
+Best regards,
+Li Ming
+
+参考分数: 9/10
+
 ## 2021 S4 PB
 
 48 Directions:
@@ -1016,7 +1089,22 @@ Suppose you are planning a campus food festival, write an e-mail to the internat
 2. invite them to participate.
 
 You should write about 100 words on the ANSWER SHEET.
-Do not use your own name in the email. Use “Li Ming" instead. (10 points)
+Do not use your own name in the email. Use "Li Ming" instead. (10 points)
+
+### 2022 S4 PA Answer v20241215
+
+Dear International Students,
+
+I am excited to announce that our university will be hosting a campus food festival next month. I'm here to extend a warm invitation to all of you to join us for this delicious and fun event.
+
+Regarding the food festival, there are several points I would like to mention. Firstly, it will be held at the university square on the 15th of this month. Our volunteers will be there to provide you with a variety of local and international dishes. Secondly, there will be live music performances and cultural activities to enjoy. Lastly, it's a great opportunity to meet new friends and experience different cuisines.
+
+I would be glad if you found the information helpful and look forward to seeing you at the food festival.
+
+Best regards,
+Li Ming
+
+参考分数: 9/10
 
 ## 2022 S4 PB
 
@@ -1082,13 +1170,26 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
 
 47 Directions:
 
-An art exhibition and a robot show are to be held on Sunday, and your friend David asks ymi which one he should go to. Write him an email to
+An art exhibition and a robot show are to be held on Sunday, and your friend David asks you which one he should go to. Write him an email to
 
 1. make a suggestion, and
 2. give your reason(s) .
 
 Write your answer in about 100 words on the ANSWER SHEET.
 Do not use your own name in your email. Use "Li Ming" instead. (10 points)
+
+### 2023 S4 PA Answer v20241215
+
+Dear David,
+
+I'm writing this letter to discuss your options for the upcoming events on Sunday. I would recommend you to attend the robot show.
+
+The reasons for my suggestion are as follows. Firstly, the robot show is a good opportunity to learn about the latest developments in technology and robotics. Secondly, it offers an interactive and engaging experience that is both educational and entertaining. In addition, our school's new robot models will be exhibited, providing you with a firsthand look at the latest advancements in robotics. I believe you will find the robot show both informative and enjoyable.
+
+I hope this helps you make your decision. Let me know if you have any other questions.
+
+Best regards,
+Li Ming
 
 ## 2023 S4 PB
 
@@ -1160,6 +1261,21 @@ Suppose you and Jack are going to do a survey on the protection of old houses in
 
 You should write about 100 words on ANSWER SHEET. (10 points) Do not use your own name. Use "Li Ming" instead.
 
+### 2024 S4 PA Answer v20241215
+
+Dear Jack,  
+
+I'm writing this letter to discuss our upcoming survey on the protection of old houses in the ancient town. I would like to propose a plan for our research and would appreciate your input.
+
+Regarding the survey, there are several steps I would like to propose. First of all, we can collect background information about the old houses, focusing on their history and current condition. What’s more, interviews with local residents and officials should be conducted to understand their perspectives and gain valuable insights. In addition, we could take photos and document examples of both well-preserved and damaged structures to provide visual evidence. For more details, you could refer to the attachment below.
+
+I would appreciate it if you could take my plan into serious consideration. Please let me know your thoughts or any suggestions you might have. Looking forward to your reply!
+
+Best regards,  
+Li Ming
+
+参考分数: 9/10
+
 ## 2024 S4 PB
 
 48 Directions:
@@ -1210,3 +1326,13 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
   }]
 }
 ```
+
+### 2024 S4 PB Answer v20241215
+
+模版参考 -> [颉斌斌大作文模版个人修改版](Writing-Part-B.md#颉斌斌大作文模版个人修改版) -> [模板组合示例](Writing-Part-B.md#模板组合示例)
+
+The main gains of students participating in handicraft activities are shown in the bar chart. The data reveals that the majority of students reported an improvement in their hands-on skills, with 84.8% of participants indicating this as a significant gain. Additionally, 91.3% of students reported learning new knowledge as a key benefit of the activity.
+
+The contributing factors responsible for this phenomenon can be summarized as follows. First of all, it is evident that hands-on activities provide students with practical experience and the opportunity to develop their manual dexterity. Secondly, the acquisition of new knowledge is a direct result of engaging in creative and educational activities. Furthermore, the positive impact on students' cooperation skills and emotional well-being can be attributed to the collaborative nature of handicraft activities.
+
+The above-mentioned facts can naturally lead us to the conclusion that great importance should be attached to providing students with opportunities to engage in hands-on activities. First, newspapers and news media should promote publicity of it. What’s more, the implementation of the measures of the government is also necessary. In addition, schools should also provide more opportunities for students to participate in such activities.
