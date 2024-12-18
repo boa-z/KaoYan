@@ -133,7 +133,7 @@ $$
 
 6、【答】
 
-$V_{FB} = - V_{\text{ms}} - \frac{1}{C_{\text{0}}} \int_{0}^{d_{\text{o}}} \frac{x\rho_{\text{o}}}{d_{0}} d x$
+$V_{\text{FB}} = - V_{\text{ms}} - \frac{1}{C_{\text{0}}} \int_{0}^{d_{\text{o}}} \frac{x\rho_{\text{o}}}{d_{0}} d x$
 
 <!-- 感觉必不会考，直接跳过 -->
 

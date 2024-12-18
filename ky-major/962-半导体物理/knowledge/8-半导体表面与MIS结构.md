@@ -124,6 +124,14 @@ $F(\frac{q V}{k_0 T}, \frac{n_{p0}}{p_{p0}}) = 0$
 
 ---
 
+耗尽层宽度极大值 $x_{dm}$
+
+$$
+x_{dm} = \left( \frac{4 \varepsilon_{r} \varepsilon_0}{q N_A} V_{B} \right)^{\frac{1}{2}} = \left[ \frac{4 \varepsilon_{r} \varepsilon_0}{q N_A} \frac{k_0 T}{q} \ln{\left(\frac{N_A}{n_i}\right)} \right]^{\frac{1}{2}}
+$$
+
+---
+
 二维电子气 2DEG
 
 #### 8.2.2.5 深耗尽状态
