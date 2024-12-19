@@ -35,13 +35,13 @@
 * $q V_{D}$: 电子电势能之差，即能带的弯曲量，称为 pn 结的势垒高度
 
 $$
-q V_{D} = E_{Fn} - E_{Fp}
+q V_{D} = E_{Fn} - E_{Fp} \tag{6-9}
 $$
 
 $n_{p0}$ 和 $n_{n0}$ 是 p 区和 n 区的热平衡电子浓度。
 
 $$
-V_D = \frac{kT}{q} \ln \frac{n_{n0}}{n_{p0}} = \frac{kT}{q} \ln \frac{N_D N_A}{n_i^2}
+\color{#E45F59}{V_D = \frac{kT}{q} \ln \frac{n_{n0}}{n_{p0}} = \frac{kT}{q} \ln \frac{N_D N_A}{n_i^2}} \tag{6-10}
 $$
 
 ## 6.2 pn 结电流电压特性
@@ -82,7 +82,7 @@ $$
 理想 pn 结模型的电流电压方程 = 肖克利方程|肖克莱方程式
 
 $$
-J = J_{S} \left[ \exp(\frac{qV}{kT})-1 \right] \tag{6-36}
+J = J_{S} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right] \tag{6-36}
 $$
 
 pn 结的单向导电性 = 整流效应
@@ -109,7 +109,7 @@ pn 结的单向导电性 = 整流效应
 在 $x = x_n$ 处，空穴扩散电流密度为：
 
 $$
-\color{#E45F59}{J_{\mathrm{p}}(x_{\mathrm{n}}) = \frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} \left[ \exp(\frac{qV}{kT})-1 \right]} \tag{6-31}
+\color{#E45F59}{J_{\mathrm{p}}(x_{\mathrm{n}}) = \frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]} \tag{6-31}
 $$
 
 * $J_{P}(x_{n})$ 表示二极管在 $x_{n}$ 位置的饱和电流密度($A/m^2$)
@@ -118,17 +118,18 @@ $$
 在 $x = -x_p$ 处，电子扩散电流密度为：
 
 $$
-\color{#E45F59}{J_{\mathrm{n}}(-x_{\mathrm{p}}) = \frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \left[ \exp(\frac{qV}{kT})-1 \right]} \tag{6-32}
+\color{#E45F59}{J_{\mathrm{n}}(-x_{\mathrm{p}}) = \frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]} \tag{6-32}
 $$
 
 理想二极管方程 ideal diode equation (肖克利方程 Shockley equation)
 
 $$
-\color{#E45F59}{\begin{split}
+\color{#E45F59}{\begin{align*}
     J
     &= J_{\mathrm{p}}(x_{\mathrm{n}}) + J_{\mathrm{n}}(-x_{\mathrm{p}}) \\
-    &= J_{\mathrm{s}} \left[ \exp(\frac{qV}{KT})-1 \right] \\
-\end{split}} \tag{6-36}
+    &= \left( \frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} + \frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \right) \left[ \exp\left(\frac{qV}{kT}\right)-1 \right] \\
+    &= J_{\mathrm{s}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right] \\
+\end{align*}}
 $$
 
 ### 6.2.3 影响 pn 结电流电压特性偏离理想特性的因素
@@ -152,31 +153,67 @@ $$
 
 ### 6.3.1 pn 结电容的来源
 
-1 势垒电容 $C_T$
+#### 6.3.1.1 势垒电容
 
-2 扩散电容 $C_D$
+势垒电容 $C_T$：当pn结外加电压变化时，引起电子和空穴在势垒区的存入或取出作用，导致势垒区的空间电荷数量随外加电压而减少或增多。这种现象与电容器的充、放电作用类似，这种耗尽层宽窄变化所等效的电容称为势垒电容，以 \( C_{T} \) 表示。
+
+#### 6.3.1.2 扩散电容
+
+扩散电容 $C_D$ ：外加电压变化时，n区扩散区内积累的非平衡空穴增加，与它保持中性的电子也相应增加。同理，p区扩散区内积累的非平衡电子增加，与它保持中性的空穴也相应增加。**这种由于扩散区的电荷数量随外加电压的变化所产生的电容效应**，称为pn结的扩散电容，以 \( C_{\text{D}} \) 表示。
 
 ### 6.3.2 突变结的势垒电容
+
+#### 6.3.2.1 突变结的势垒区中的电场、电势分布
+
+最大电场强度 $E_\text{m}$
+
+对于 p+n 结，
+
+$$
+E_\text{m} = - \frac{q N_D x_n}{\varepsilon_\text{r} \varepsilon_0}
+$$
+
+对于 n+p 结，
+
+$$
+E_\text{m} = - \frac{q N_A x_p}{\varepsilon_\text{r} \varepsilon_0}
+$$
+
+则
+
+$$
+E_\text{m} = \frac{q N_\text{B} X_\text{D}}{\varepsilon_\text{r} \varepsilon_0} \tag{6-79}
+$$
+
+其中 $N_\text{B}$ 为轻掺杂一边的杂质浓度
+
+#### 6.3.2.2 突变结的势垒宽度 $X_D$
 
 突变结接触电势差 $V_D$
 
 $$
-V_D = (\frac{q}{2 \varepsilon_r \varepsilon_0}) (\frac{N_A N_D}{N_A + N_D}) X_D^2
+V_D = \left(\frac{q}{2 \varepsilon_r \varepsilon_0}\right) \left(\frac{N_A N_D}{N_A + N_D}\right) X_D^2 \tag{6-88}
 $$
 
 突变结的势垒宽度 $X_D$
 
 $$
-X_D = \sqrt{V_D (\frac{2 \varepsilon_r \varepsilon_0}{q}) (\frac{N_A + N_D}{N_A N_D})}
+X_D = \sqrt{V_D \left(\frac{2 \varepsilon_r \varepsilon_0}{q}\right) \left(\frac{N_A + N_D}{N_A N_D}\right)} \tag{6-89}
 $$
 
 ### 6.3.3 线性缓变结的势垒电容
 
 $$
-V_D - V = \frac{q a_j X_D^3}{12 \varepsilon_r \varepsilon_0}, X_D = (\frac{12 \varepsilon_r \varepsilon_0 (V_D - V)}{q a_j})^{1/3}
+V_D - V = \frac{q a_j X_D^3}{12 \varepsilon_r \varepsilon_0}, X_D = \left(\frac{12 \varepsilon_r \varepsilon_0 (V_D - V)}{q a_j}\right)^{\frac{1}{3}}
 $$
 
-上式表面，线性...........
+上式表面，线性缓变结的势垒宽度与电压 $V_D - V$ 的立方根成正比，因此，增大反向电压 $V$，势垒宽度 $X_D$ 增大。
+
+### 6.3.4 扩散电容
+
+$$
+C_D = \left(\frac{A q^{2} p_{n0} L_{p}}{k_0 T}\right) \left[ \exp\left(\frac{qV}{k_0 T}\right) - 1 \right] \tag{6-132}
+$$
 
 ## 6.4 pn 结击穿
 
@@ -195,6 +232,12 @@ avalanche multiplication
 ### 6.4.3 热电击穿
 
 如题
+
+## 6.5 pn 结隧道效应
+
+负阻效应：随着电压的增加，电流反而减小
+
+详见 P184 图6-27
 
 ## 分割线 | 以下为原半导体器件笔记
 

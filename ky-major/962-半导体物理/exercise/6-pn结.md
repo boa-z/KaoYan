@@ -17,9 +17,13 @@ update: 2024-08-06: yanfen group chat messages
 
 1、【答】
 
-$V_D = \frac{kT}{q} \ln \frac{N_D N_A}{n_i^2}$
-
-$= 0.026 \ln \frac{5 \times 10^{15} \times 10^{17}}{2.1 \times 10^{13}} = 0.362 \, \mathrm{V}$
+$$
+\begin{align*}
+  V_D & = \frac{kT}{q} \ln \frac{N_D N_A}{n_i^2} \\
+      & = 0.026 \ln \frac{5 \times 10^{15} \times 10^{17}}{2.1 \times 10^{13}} \\
+      & = 0.362 \, \mathrm{V}
+\end{align*}
+$$
 
 ### 书后习题 6.4
 
@@ -47,15 +51,57 @@ $p_{\mathrm{n0}} = \frac{n_i^2}{N_D}$
 
 $n_{\mathrm{p0}} = \frac{n_i^2}{N_A}$
 
-(1) $\dots$
+(1) $J_{\mathrm{p}}(x_{\mathrm{n}}) = \frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]$
+
+$J_{\mathrm{n}}(-x_{\mathrm{p}}) = \frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]$
+
+室温下空穴电流与电子电流之比
+
+$$
+\frac{J_{\mathrm{p}}}{J_{\mathrm{n}}} = \frac{\frac{q D_{\mathrm{p}} p_{\mathrm{n0}}}{L_{\mathrm{p}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]}{\frac{q D_{\mathrm{n}} n_{\mathrm{p0}}}{L_{\mathrm{n}}} \left[ \exp\left(\frac{qV}{kT}\right)-1 \right]} = \frac{D_{\mathrm{p}} p_{\mathrm{n0}} L_{\mathrm{n}}}{D_{\mathrm{n}} n_{\mathrm{p0}} L_{\mathrm{p}}}
+$$
+
+由爱因斯坦关系 $D = \mu kT/q$，$D_{\mathrm{p}} = \mu_{\mathrm{p}} kT/q$，$D_{\mathrm{n}} = \mu_{\mathrm{n}} kT/q$，$L_{\mathrm{n}} = \sqrt{D_{\mathrm{n}} \tau_{\mathrm{n}}}$，$L_{\mathrm{p}} = \sqrt{D_{\mathrm{p}} \tau_{\mathrm{p}}}$
+
+$$
+\begin{align*}
+  \frac{J_{\mathrm{p}}}{J_{\mathrm{n}}}
+  &= \frac{\mu_{\mathrm{p}} p_{\mathrm{n0}} \sqrt{D_{\mathrm{n}} \tau_{\mathrm{n}}}}{\mu_{\mathrm{n}} n_{\mathrm{p0}} \sqrt{D_{\mathrm{p}} \tau_{\mathrm{p}}}} \\
+  &= \frac{\mu_{\mathrm{p}} p_{\mathrm{n0}} \sqrt{\mu_{\mathrm{n}} \tau_{\mathrm{n}}}}{\mu_{\mathrm{n}} n_{\mathrm{p0}} \sqrt{\mu_{\mathrm{p}} \tau_{\mathrm{p}}}}
+\end{align*}
+$$
+
+(2) 饱和电流密度
+
+TODO: 未完成，看不懂，评价是寄
 
 ### 书后习题 6.7
 
 7、 计算当温度从 $300 \, \mathrm{K}$ 增加到 $400 \, \mathrm{K}$ 时，硅 pn 结反向电流增加的倍数。
 
+7、【答】
+
+$$
+\begin{align*}
+  J_s
+  &= \frac{q D_n n_{\text{p0}}}{L_n}  + \frac{q D_p p_{\text{n0}}}{L_p}  \\
+  &= q \sqrt{\frac{D_\text{n}}{\tau_\text{n}}} \frac{n_i^{2}}{N_A} + q \sqrt{\frac{D_\text{p}}{\tau_\text{p}}} \frac{n_i^{2}}{N_D} \\
+  &= n_i^{2} \left( \sqrt{\frac{D_\text{n}}{\tau_\text{n}}} \frac{q}{N_A} + \sqrt{\frac{D_\text{p}}{\tau_\text{p}}} \frac{q}{N_D} \right) \\
+  &= k n_i^{2}
+\end{align*}
+$$
+
 ### 书后习题 6.8
 
 8、 设硅线性缓变结的杂质浓度梯度 $5 \times 10^{23} \, \mathrm{cm}^{-3}$，$V_D$ 为 $0.7 \, \mathrm{V}$，求反向电压为 $8 \, \mathrm{V}$ 时的势垒区宽度。
+
+8、【答】
+
+$$
+V_D - V = \frac{q a_j X_D^3}{12 \varepsilon_r \varepsilon_0}, X_D = \left(\frac{12 \varepsilon_r \varepsilon_0 (V_D - V)}{q a_j}\right)^{\frac{1}{3}}
+$$
+
+$X_D = 1.1 \times 10^{-5} \, \mathrm{cm}$
 
 ### 书后习题 6.9
 
@@ -63,6 +109,28 @@ $n_{\mathrm{p0}} = \frac{n_i^2}{N_A}$
 
 1. 求势垒高度和势垒宽度；
 2. 画出 $E(x)$、$V(x)$ 图。
+
+9、【答】(1)
+
+$$
+\begin{align*}
+  V_D & = \frac{kT}{q} \ln \frac{N_D N_A}{n_i^2} \\
+      & = 0.026 \ln \frac{10^{20} \times 10^{16}}{(1.5 \times 10^{20})^{2}} \\
+      & = 0.936 \, \mathrm{V}
+\end{align*}
+$$
+
+<!-- V_D = q V_D -->
+
+$$
+\begin{align*}
+  X_D
+  & = \sqrt{\frac{2 \varepsilon_{r} \varepsilon_0}{q} \left( \frac{N_A + N_D}{N_A N_D} \right) V_D} \\
+  & \because N_D \gg N_A \\
+  & = \sqrt{\frac{2 \varepsilon_{r} \varepsilon_0}{q} \left( \frac{V_D}{N_A} \right)} \\
+  &= 3.5 \times 10^{-5} \, \mathrm{cm}
+\end{align*}
+$$
 
 ### 书后习题 6.10
 
@@ -78,13 +146,56 @@ $n_{\mathrm{p0}} = \frac{n_i^2}{N_A}$
 
 11、 分别计算硅 n-p 结在正向电压为 $0.6 \, \mathrm{V}$、反向电压为 $40 \, \mathrm{V}$ 时的势垒区宽度。已知 $N_A = 5 \times 10^{16} \, \mathrm{cm}^{-3}$，$V_D = 0.8 \, \mathrm{V}$。
 
+11、【答】
+
+$$
+\begin{align*}
+  X_D & = \sqrt{\frac{2 \varepsilon_{r} \varepsilon_0 (V_D - V)}{q N_A}} \\
+  &= 5.066 \times 10^{-6} \times \sqrt{(V_D - V)} \\
+\end{align*}
+$$
+
+当正向电压为 $0.6 \, \mathrm{V}$ 时，$X_D = 5.066 \times 10^{-6} \times \sqrt{0.8 - 0.6} = 2.27 \times 10^{-6} \, \mathrm{cm}$
+
+当反向电压为 $40 \, \mathrm{V}$ 时，$X_D = 5.066 \times 10^{-6} \times \sqrt{0.8 + 40} = 3.24 \times 10^{-5} \, \mathrm{cm}$
+
 ### 书后习题 6.12
 
 12、 分别计算硅 p-n 结在平衡和反向电压 $45 \, \mathrm{V}$ 时的最大电场强度。已知 $N_p = 5 \times 10^{16} \, \mathrm{cm}^{-3}$，$V_D = 0.7 \, \mathrm{V}$。
 
+12、【答】
+
+由
+
+$$
+E_\text{m} = \frac{q N_\text{B} X_\text{D}}{\varepsilon_\text{r} \varepsilon_0}
+$$
+
+其中 $N_\text{B}$ 为轻掺杂一边的杂质浓度
+
+此处，$N_B = - N_D$
+
+$$
+\begin{align*}
+  E_\text{m} & = \frac{q N_D X_D}{\varepsilon_\text{r} \varepsilon_0} \\
+  & = \frac{q N_D}{\varepsilon_\text{r} \varepsilon_0} \sqrt{\frac{2 \varepsilon_\text{r} \varepsilon_0 (V_D - V)}{q N_D}} \\
+  & = 3.948 \times 10^{4} \times \sqrt{V_D - V} \\
+\end{align*}
+$$
+
+当 $V = 0$ 时，$E_\text{m} = \dots$
+
+当 $V = 45 \, \mathrm{V}$ 时，$E_\text{m} = \dots$
+
 ### 书后习题 6.13
 
 13、 高阻区杂质浓度为 $N_D = 10^{16} \, \mathrm{cm}^{-3}$，$E_c = 4 \times 10^5 \, \mathrm{V/cm}$，求击穿电压。
+
+13、【答】
+
+$$
+V_B = \frac{\varepsilon_{\text{r}} \varepsilon_0 \varepsilon_c^2}{2 q N_D}
+$$
 
 ## 半导体物理学习题集习题
 

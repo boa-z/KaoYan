@@ -2,7 +2,7 @@
 
 ## TODO
 
-* [ ] 第八章课后习题：1，2，3，6，7
+* [x] 第八章课后习题：1，2，3，6，7
 
 ## 半导体物理刘恩科书后习题
 
@@ -22,7 +22,9 @@ P 型硅, $p_{p 0}=N_A$, 表面本征时, $V_S>0$, 能带不弯, $n_s=p_s$
 
 由`公式8-18`得, $p_s=p_{p 0} \exp \left(-\frac{q V_s}{k T}\right) = N_A \exp \left(-\frac{q V_s}{k T}\right)$
 
-$\Rightarrow n_s=p_s \Rightarrow \frac{q V_s}{k T}=\ln \frac{N_A}{n_i} \Rightarrow V_S=V_B=\frac{k T}{q} \ln \frac{N_A}{n_i}$
+$$
+\Rightarrow n_s=p_s \Rightarrow \frac{q V_s}{k T}=\ln \frac{N_A}{n_i} \Rightarrow V_S=V_B=\frac{k T}{q} \ln \frac{N_A}{n_i}
+$$
 
 其中
 
@@ -32,7 +34,9 @@ $e^{-\frac{q V_s}{k T}} \leq 10^{-2}$
 $\frac{n_{p 0}}{p_{p 0}} \leq 10^{-4}$
 $e^{\frac{q V_s}{k T}} \geq 10^2$
 
-$F\left(\frac{q V_s}{k T}, \frac{n_{p 0}}{p_{p 0}}\right) = \sqrt{2}\left[\left(e^{-\frac{q V_s}{k T}}-1+\frac{q V_s}{k T}\right)+\frac{n_{p 0}}{p_{p 0}}\left(e^{\frac{q V_s}{k T}}-1-\frac{q V_s}{k T}\right)\right]^{\frac{1}{2}}$
+$$
+F \left( \frac{q V_s}{k T}, \frac{n_{p 0}}{p_{p 0}} \right) = \sqrt{2} \left[ \left( e^{-\frac{q V_s}{k T}} - 1 + \frac{q V_s}{k T} \right) + \frac{n_{p 0}}{p_{p 0}} \left( e^{\frac{q V_s}{k T}} - 1 - \frac{q V_s}{k T} \right) \right]^{\frac{1}{2}}
+$$
 
 $= \sqrt{2}\left(\frac{q V_s}{k T}\right)^{\frac{1}{2}} = \sqrt{2}\left(\ln \frac{N_A}{n_i}\right)$
 
