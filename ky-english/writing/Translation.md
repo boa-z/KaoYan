@@ -113,17 +113,37 @@ We can choose to see failure as “the end of the world”. Or, we can look at f
 
 Failure can also teach us things about ourselves that we would never have learned otherwise. For instance, failure can help you discover how strong a person you are. Failing at something can help you discover your truest friends, or help you find unexpected motivation to succeed.
 
+### 2020 S3 v20241220
+
+几乎不可能在人生中不经历某种形式的失败。那些没有经历过失败的人可能活得过于谨慎，以至于他们一事无成。简单来说，他们根本没有真正活过。然而，失败的奇妙之处在于，我们完全可以决定如何看待它。
+
+我们可以选择把失败看作是“世界末日”。或者，我们可以把失败看作是常常带来令人难以置信的学习经验。每次失败时，我们都可以选择去寻找我们应该学习的教训。这些教训非常重要，它们是我们成长的方式，也是我们避免再次犯同样错误的关键。只有当我们允许它们时，失败才会让我们停滞不前。
+
+失败还可以让我们了解一些本来不会知道的关于自己的事情。例如，失败可以帮助你发现自己有多坚强。失败还可以帮助你发现真正的朋友，或者激发你意想不到的动力去成功。
+
 ## 2021 S3
 
 We tend to think that friends and family members are our biggest sources of connection, laughter, and warmth. While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn't expect.
 
-In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. Much of the time, however, this belief is false. As it turns out, many people are actually perfectly willing to talk--and may even be flattered to receive your attention.
+In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. The researchers also argued that when we shy away from **casual** interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. Much of the time, however, this belief is false. As it turns out, many people are actually perfectly willing to talk--and may even be **flattered** to receive your attention.
+
+### 2021 S3 v20241220
+
+我们常常认为，朋友和家人是我们连接、欢笑和温暖的最大来源。虽然这可能是事实，但研究人员最近发现，与陌生人的互动实际上能带来情绪和归属感的提升，这是我们之前没有预料到的。
+
+在一系列研究中，研究人员指示芝加哥地区的公共交通通勤者与周围的人交谈。平均而言，那些遵循这一指示的参与者感觉比那些被告知保持沉默的人更好。研究人员还认为，当我们回避与陌生人的随意互动时，往往是因为我们错误地担心他们可能不愿意与我们交谈。然而，事实上，许多时候这种担忧是错误的。原来，许多人实际上非常愿意交谈——甚至可能会因收到你的关注而感到受宠若惊。
 
 ## 2022 S3
 
 Although we try our best, sometimes our paintings rarely turn out as originally planned. Changes in the light, the limitations of your painting materials, and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.
 
 Although this can be frustrating and disappointing, it turns out that this can actually be good for you. Unexpected results have two benefits: you pretty quickly learn to deal with disappointment and realise that when one door closes, another opens. You also quickly learn to adapt and come up with creative solutions to the problems the painting presents and thinking outside the box will become your Second nature. In fact, creative problem-solving skills are incredibly useful in daily life, with which you're more likely to be able to find a solution when problem arises.
+
+### 2022 S3 v20241220
+
+尽管我们尽力而为，有时我们的画作仍然很难如最初所计划的那样完成。光线的变化、绘画材料的限制，以及经验和技巧的不足意味着你一开始试图实现的目标，可能无法以预期的方式呈现出来。
+
+虽然这可能让人感到沮丧和失望，但事实上，这对你来说可能是有益的。意外的结果有两个好处：你很快学会了如何面对失望，并意识到当一扇门关闭时，另一扇门会打开。你也会很快学会适应，并为画作中出现的问题提出创造性的解决方案，跳出框框思考将变成你的第二天性。事实上，创造性解决问题的能力在日常生活中极为有用，有了这种能力，当问题出现时，你更有可能找到解决办法。
 
 ## 2023 S3
 
@@ -133,9 +153,23 @@ Poetry is powerful. Its energy and rhythm can capture a reader, transport them t
 
 No one knows for sure when poetry began but it has been around for thousands of years, even before people could write. It was a way to tell stories and pass down history. It is closely related to song and even when written it is usually created to be performed out loud. Poems really come to life when they are recited. This can also help with understanding them too, because the rhythm and sounds of the words become clearer.
 
+### 2023 S3 v20241220
+
+18世纪末，威廉·华兹华斯因其描写大自然的诗篇而闻名。他是浪漫主义运动的创始人之一，这一运动歌颂了自然界的奇观。
+
+诗歌是一种强大的艺术形式。它的力量与韵律能够吸引读者，将他们带入另一个世界，并以不同的视角看待事物。通过精心挑选的词句，诗歌可以表现得戏剧化、幽默、美丽、感人和鼓舞人心。
+
+没有人确切知道诗歌起源于何时，但它已经存在了数千年，甚至在人类还未掌握书写之前就已出现。诗歌是一种讲述故事和传承历史的方式。它与歌曲有着密切的联系，即使是书面形式的诗歌，通常也是为了大声朗诵而创作的。诗歌在朗诵时真正焕发出生命力，同时也能帮助理解，因为单词的节奏和声音会变得更加清晰。
+
 ## 2024 S3
 
 With the smell of coffee and fresh bread floating in the air, stalls bursting with colorful vegetables and tempting cheeses, and the buzz of friendly chats, farmers’ markets are a feast for the senses. They also provide an opportunity to talk to the people responsible for growing or raising your food, support your local economy and pick up fresh seasonal produce -- all at the same time. Farmers’ markets are usually weekly or monthly events, most often with outdoor stalls, which allow farmers or producers to sell their food directly to customers. The size or regularity of markets can vary from season to season, depending on the area's agricultural calendar, and you’re likely to find different produce on sale at different times of the year. By cutting out the middlemen, the farmers secure more profit for their produce. Shoppers also benefit from seeing exactly where -- and to who -- their money is going.
+
+### 2024 S3 v20241220
+
+伴随着咖啡和新鲜面包的香气在空气中弥漫，摊位上摆满了五彩缤纷的蔬菜和诱人的奶酪，伴随友好交谈的喧闹声，农贸市场简直是一次感官的盛宴。同时，它们也为人们提供了一个与种植或养殖食物的生产者交流的机会，支持本地经济，并购买新鲜的时令农产品——这一切都能在同一时间完成。
+
+农贸市场通常是每周或每月举办的活动，大多以户外摊位的形式出现，农民或生产者可以直接向顾客销售他们的食品。市场的规模或举办频率会因季节变化而不同，这取决于当地的农业生产周期，而且你会发现不同时间出售的农产品也有所不同。通过减少中间环节，农民可以为他们的农产品赚取更多的利润。消费者也能从中受益，清楚地知道他们的钱花到了哪里以及给了谁。
 
 ## Reference
 

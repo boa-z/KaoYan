@@ -816,23 +816,6 @@ Li Ming
 
 ### 2019 S4 PA Answer v20241215
 
-Dear Professor Smith,
-
-I am writing this letter to propose a debate topic for our upcoming discussion on city traffic. I suggest the topic: "The Impact of Shared Bicycles on City Traffic".
-
-Regarding the arrangements, firstly, I suggest hosting the debate in the Classroom 101 which can accommodate a large audience on Friday afternoon. Secondly, I choose this topic as it is a realistic issue exists in not only our city but also our school's traffic. In addition, I have invited a local traffic expert to serve as a guest judge for the debate.
-
-I will be appreciative of any feedback or suggestions you may have regarding the proposed topic and arrangements.
-
-Best regards,
-Li Ming
-
-参考分数: 7/10
-
----
-
-Optimized by ChatGPT:
-
 Dear Professor Smith,  
 
 I am writing this letter to propose a debate topic for our upcoming discussion on city traffic. I suggest the topic: "The Role of Shared Bicycles in Alleviating City Traffic Congestion."  
@@ -1079,6 +1062,16 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
 }
 ```
 
+## 2021 S4 PB Answer v20241220
+
+The bar chart illustrates the percentage of people who exercise using different methods. The data shows that the most popular method of exercise is "exercising alone," with 60.0% of people choosing this option. While "group activities" are the least popular method, with only 23.9% of people participating in them.
+
+The contributing factors responsible for this phenomenon can be summarised as follows. Firstly, exercising alone provides individuals with the flexibility to choose their own pace and schedule, making it a convenient option for many. Secondly, exercising with friends or family members can be challenging due to conflicting schedules and preferences. Lastly, group activities may require more coordination and planning, which can be a barrier for some individuals.
+
+In conclusion, the data highlight the importance of individual preferences and convenience when it comes to choosing an exercise method. By understanding these factors, individuals can select the most suitable exercise method that aligns with their goals and lifestyle.
+
+参考分数: 12/15
+
 ## 2022 S4 PA
 
 47 Directions:
@@ -1166,6 +1159,24 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
 }
 ```
 
+### 2022 S4 PB Answer 真题狂刷配套答案
+
+As illustrated in the above column chart, dramatic changes have occurred in China's total and rural express business volume from 2018 to 2020. China's business volume of express delivery grew from 51 billion in 2018 to 64 billion in 2019 and then to about 83 billion in 2020. Meanwhile, the figure in the countryside increased from about 12 billion to 15 billion and then to 30 billion during the same period.
+
+With many perks of express business, it is clear from these statistics that people are increasingly purchasing goods from online stores by express. This change can be attributed to several factors. To begin with, the ubiquitous availability of computers and smartphones and the rapid development of information technology have contributed to the accessibility of the Internet. Today, consumers can easily browse online stores through their computers or mobile devices, and order what they need, whether they reside in cities or rural areas. In addition, efforts have been made to increase rural residents' income in China, resulting in a higher purchasing power for people.
+
+In a word, e-commerce will continue to dominate the consumer playing field as spending preferences and comfort levels along with rising purchasing power radically shift with our new normal.
+
+### 2022 S4 PB Answer v20241220
+
+The bar chart illustrates the changes in the volume of express delivery services in China from 2018 to 2020. The data shows a significant increase in the overall volume of express delivery services over the three-year period, with the volume rising from 51 billion in 2018 to 83 billion in 2020. Additionally, the share of express delivery services in rural areas also increased, from 12 billion in 2018 to 30 billion in 2020.
+
+The upward trend in express delivery services can be attributed to several factors. Firstly, the growth of e-commerce platforms and online shopping has driven the demand for express delivery services. Secondly, improvements in express delivery infrastructure and technology such as drones and automated sorting systems have enhanced the efficiency and speed of delivery services. The rise in express delivery services reflects the increasing demand for fast and reliable delivery services in China.
+
+The above-mentioned factors have contributed to the growth of the express delivery industry in China, making it an essential part of the country's logistics and e-commerce ecosystem.
+
+参考分数: 11/15
+
 ## 2023 S4 PA
 
 47 Directions:
@@ -1249,6 +1260,16 @@ You should write about 150 words on the ANSWER SHEET. (15 points)
 ```
 
 * **健康素养**（health literacy）是指个人获取和理解基本健康信息和服务，并运用这些信息和服务作出正确决策，以维护和促进自身健康的能力。**健康素养水平**指具备基本健康素养的人在总人群（15-69 岁城乡居民）中所占的比例。
+
+### 2023 S4 PB Answer v20241220
+
+The line chart illustrates the health literacy levels in China from 2012 to 2021. The data shows a steady increase in health literacy levels over the ten-year period, with a significant rise from 8.80% in 2012 to 25.40% in 2021.
+
+The upward trend in health literacy levels can be attributed to several factors. Firstly, increased access to health information and services has enabled individuals to make informed decisions about their health. Secondly, public health campaigns and educational programs have raised awareness about health issues and promoted healthy behaviors. Additionally, advancements in technology have made health information more accessible and easier to understand.
+
+The rise in health literacy levels is a positive development that reflects the growing awareness of health issues and the importance of maintaining a healthy lifestyle. Media, especially social media, should continue to promote health literacy and empower individuals to take charge of their health. By improving health literacy, individuals can make better-informed decisions about their health and well-being.
+
+参考分数: 13/15
 
 ## 2024 S4 PA
 
@@ -1336,3 +1357,5 @@ The main gains of students participating in handicraft activities are shown in t
 The contributing factors responsible for this phenomenon can be summarized as follows. First of all, it is clear that hands-on activities give students practical experience and the chance to improve their physical skills. Secondly, the acquisition of new knowledge is a direct result of engaging in creative and educational activities. Furthermore, the positive effect on students’ teamwork skills and emotional well-being can be linked to the collaborative nature of craft activities.
 
 The above-mentioned facts can naturally lead us to the conclusion that great importance should be attached to providing students with opportunities to engage in hands-on activities. First, newspapers and media should help raise awareness about it. What’s more, it is also necessary for the government to implement relevant measures. Additionally, schools should offer more opportunities for students to take part in such activities.
+
+参考分数: 13/15
